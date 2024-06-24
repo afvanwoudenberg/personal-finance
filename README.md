@@ -1,6 +1,8 @@
 # Personal Finance
 
-The CAMT.053 file format is a standard XML format for exporting transactions and account balances to, for example, an accounting package. Most (European) banks allow their customers to download their transactions and balances in this file format from their banking portal. This repository contains a Jupyter Notebook that shows how to import CAMT.053 files into a Pandas dataframe. Besides reading CAMT.053 files into dataframes, the Jupyter notebook also demonstrates how to categorize transactions and display some useful graphs using Matplotlib.
+The CAMT.053 file format is a standard XML format for exporting transactions and account balances to, for example, an accounting package. Most (European) banks allow their customers to download their transactions and balances in this file format from their banking portal. 
+
+This repository contains a Jupyter Notebook that shows how to import CAMT.053 files into a Pandas dataframe. Besides reading CAMT.053 files into dataframes, the Jupyter notebook also demonstrates how to categorize transactions and display some useful graphs using Matplotlib.
 
 ## Getting Started
 
